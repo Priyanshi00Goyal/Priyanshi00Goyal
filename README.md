@@ -21,4 +21,4 @@ GitHub
 ## Connect with me
 
 LinkedIn:www.linkedin.com/in/priyanshi-goyal-a72b42379
-GitHub:
+GitHub:Priyanshi00Goyal
