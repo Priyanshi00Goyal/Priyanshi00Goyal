@@ -32,7 +32,7 @@ Building my future one commit at a time 🚀
 
 ---
 
-![CGPA](https://img.shields.io/badge/SGPA-9.25-brightgreen?style=for-the-badge)
+![CGPA](https://img.shields.io/badge/CGPA-9.25-brightgreen?style=for-the-badge)
 
 ---
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Priyanshi00goyal&theme=tokyo-night&hide_border=true)
@@ -143,6 +143,3 @@ Building my future one commit at a time 🚀
 Learning • Building • Growing 🌸
 
 </p>
----
-![snake gif](https://github.com/Priyanshi00goyal/Priyanshi00goyal/blob/output/github-contribution-grid-snake.svg)
----
