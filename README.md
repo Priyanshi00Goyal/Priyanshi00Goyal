@@ -32,8 +32,10 @@ Building my future one commit at a time 🚀
 
 ---
 
-![SGPA](https://img.shields.io/badge/SGPA-9.3-brightgreen?style=for-the-badge)
+![CGPA](https://img.shields.io/badge/SGPA-9.25-brightgreen?style=for-the-badge)
 
+---
+![](https://github-readme-activity-graph.vercel.app/graph?username=Priyanshi00goyal&theme=tokyo-night&hide_border=true)
 ---
 
 ## 🚀 Current Focus
@@ -105,7 +107,8 @@ Building my future one commit at a time 🚀
 ✅ Contribute to Open Source
 
 ✅ Crack a Great Internship
-
+---
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshi00goyal&layout=donut&theme=tokyonight&hide_border=true)
 ---
 
 ## 🌟 Fun Facts
@@ -120,12 +123,26 @@ Building my future one commit at a time 🚀
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect with Me
 
-💼 LinkedIn:
-www.linkedin.com/in/priyanshi-goyal-a72b42379
+<p align="center">
 
-💻 GitHub:
-https://github.com/Priyanshi00goyal
+<a href="https://github.com/Priyanshi00goyal">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/priyanshi-goyal-a72b42379">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+</p>
+<p align="center">
 
 ⭐ Thanks for visiting my profile!
+
+Learning • Building • Growing 🌸
+
+</p>
+---
+![snake gif](https://github.com/Priyanshi00goyal/Priyanshi00goyal/blob/output/github-contribution-grid-snake.svg)
+---
