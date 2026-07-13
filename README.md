@@ -106,16 +106,16 @@
 
 ## 📈 DSA Progress Tracker
 
-| Module | Target | Completed | Progress Vector |
-| :--- | :---: | :---: | :--- |
-| **Arrays** | 40 | 12 | `▓▓▓░░░░░░░` **30%** |
-| **Strings** | 30 | 0 | `░░░░░░░░░░` **0%** |
-| **Binary Search** | 20 | 0 | `░░░░░░░░░░` **0%** |
-| **Linked List** | 30 | 0 | `░░░░░░░░░░` **0%** |
-| **Stack / Queue** | 40 | 0 | `░░░░░░░░░░` **0%** |
-| **Trees & Graphs** | 75 | 0 | `░░░░░░░░░░` **0%** |
-| **Dynamic Programming** | 40 | 0 | `░░░░░░░░░░` **0%** |
-| **Greedy Algorithms** | 25 | 0 | `░░░░░░░░░░` **0%** |
+| Module | Target | Completed |
+| :--- | :---: | :---: |
+| **Arrays** | 40 | 12 |
+| **Strings** | 30 | 0 |
+| **Binary Search** | 20 | 0 |
+| **Linked List** | 30 | 0 |
+| **Stack / Queue** | 40 | 0 |
+| **Trees & Graphs** | 75 | 0 |
+| **Dynamic Programming** | 40 | 0 |
+| **Greedy Algorithms** | 25 | 0 |
 
 ---
 
