@@ -94,8 +94,8 @@
       <p>A repository of mini utilities built to automate repetitive daily developer tasks.</p>
     </td>
     <td width="50%" align="left">
-      📄 <b>Interactive Resume</b><br/>
-      <p>A comprehensive log tracking my academic milestones, tech stacks, and growth metrics.</p>
+      📄 <b>Smart Expense Tracker</b><br/>
+      <p>A C++ console application for recording and analyzing personal financial transactions.</p>
     </td>
   </tr>
 </table>
