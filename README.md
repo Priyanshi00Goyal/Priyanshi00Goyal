@@ -127,48 +127,49 @@
 
 ---
 
-## 📈 DSA Progress Tracker
+📚 DSA Topic Progress
 
 ===========================================
-C++ Fundamentals        | ██████████ 100% ✅
 
-Time Complexity         | ██████████ 100% ✅
+C++ Fundamentals         ██████████ 100% ✅
 
-STL                     | ██████████ 100% ✅
+Time Complexity          ██████████ 100% ✅
 
-Arrays                  | ██████████ 100% ✅
+STL                      ██████████ 100% ✅
 
-Two Pointers            | ██████████ 100% ✅
+Arrays                   ██████████ 100% ✅
 
-Prefix Sum              | ██████████ 100% ✅
+Two Pointers             ██████████ 100% ✅
 
-Bit Manipulation        | ███████░░░ 70% 🟡
+Prefix Sum               ██████████ 100% ✅
 
-Hashing                 | ██████░░░░ 60% 🟡
+Bit Manipulation         ███████░░░ 70% 🟡
 
-Binary Search           | ████░░░░░░ 40% 🟡
+Hashing                  ██████░░░░ 60% 🟡
 
-Strings                 | ░░░░░░░░░░ 0%
+Binary Search            ██████░░░░ 60% 🟡
 
-Linked Lists            | ░░░░░░░░░░ 0%
+Strings                  ░░░░░░░░░░ 0%
 
-Recursion & Backtracking| ░░░░░░░░░░ 0%
+Linked Lists             ░░░░░░░░░░ 0%
 
-Stack                   | ░░░░░░░░░░ 0%
+Recursion & Backtracking ░░░░░░░░░░ 0%
 
-Queue                   | ░░░░░░░░░░ 0%
+Stack                    ░░░░░░░░░░ 0%
 
-Sliding Window          | ░░░░░░░░░░ 0%
+Queue                    ░░░░░░░░░░ 0%
 
-Greedy Algorithms       | ░░░░░░░░░░ 0%
+Sliding Window           ░░░░░░░░░░ 0%
 
-Trees                   | ░░░░░░░░░░ 0%
+Greedy Algorithms        ░░░░░░░░░░ 0%
 
-Heaps                   | ░░░░░░░░░░ 0%
+Trees                    ░░░░░░░░░░ 0%
 
-Graphs                  | ░░░░░░░░░░ 0%
+Heaps                    ░░░░░░░░░░ 0%
 
-Dynamic Programming     | ░░░░░░░░░░ 0%
+Graphs                   ░░░░░░░░░░ 0%
+
+Dynamic Programming      ░░░░░░░░░░ 0%
 
 ---
 
