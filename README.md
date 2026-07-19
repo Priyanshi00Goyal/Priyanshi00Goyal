@@ -95,35 +95,57 @@
       <p>A C++ expense management system for tracking, organizing, and analyzing personal finances.</p>
     </td>
     <td width="50%" align="left">
-      🧮 <b>Python Calculator</b><br/>
-      <p>A command-line calculator built with Python featuring arithmetic operations, input validation, and modular design.</p>
+      🧩 <b>Sudoku Solver</b><br/>
+      <p>A C++ based Sudoku solving application using Backtracking Algorithm with difficulty levels, timer, scoring, player statistics, and file handling.</p>
     </td>
   </tr>
 
   <tr>
+    <td width="50%" align="left">
+      🏦 <b>Banking Management System</b><br/>
+      <p>A C++ banking application implementing account management, customer records, transactions, and secure file-based data storage.</p>
+    </td>
+    <td width="50%" align="left">
+      🔐 <b>Login & Registration System</b><br/>
+      <p>A C++ authentication system with user registration, login verification, password management, and file handling.</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" align="left">
+      🧮 <b>Python Calculator</b><br/>
+      <p>A command-line calculator built with Python featuring arithmetic operations, input validation, and modular design.</p>
+    </td>
     <td width="50%" align="left">
       🎯 <b>Number Guessing Game</b><br/>
       <p>A Python CLI game with multiple difficulty levels, score tracking, and limited attempts.</p>
     </td>
+  </tr>
+
+  <tr>
     <td width="50%" align="left">
       🔐 <b>Password Generator</b><br/>
       <p>A secure Python application that generates customizable strong passwords using randomization.</p>
+    </td>
+    <td width="50%" align="left">
+      ✊ <b>Rock Paper Scissors</b><br/>
+      <p>A Python game featuring computer AI, Best of 3/5/7 match modes, and live score tracking.</p>
     </td>
   </tr>
 
   <tr>
     <td width="50%" align="left">
-      ✊ <b>Rock Paper Scissors</b><br/>
-      <p>A Python game featuring computer AI, Best of 3/5/7 match modes, and live score tracking.</p>
-    </td>
-    <td width="50%" align="left">
       🤍 <b>Attached RESUME</b><br/>
       <p>An interactive and fully active resume is attached for interactions and offers.</p>
+    </td>
+    <td width="50%" align="left">
+      🚧 <b>More Projects Coming Soon</b><br/>
+      <p>Building more systems and exploring new technologies in C++, Python, Web Development, and AI.</p>
     </td>
   </tr>
 </table>
 
-<p align="center"><i>Deploying more systems shortly... 🚧</i></p>
+<p align="center"><i>Building, learning, and deploying more systems 🚀</i></p>
 
 ---
 
