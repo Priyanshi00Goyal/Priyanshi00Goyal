@@ -1,205 +1,164 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020c1b,50:0a192f,100:172a45&height=220&section=header&text=Priyanshi%20Goyal&fontSize=50&fontColor=00F0FF&animation=fadeIn&fontAlignY=38&desc=B.Tech%20CSE%20%7C%20C%2B%2B%20Developer%20%7C%20DSA%20Enthusiast%20%7C%20AI%2FML%20Learner&descAlignY=58&descColor=8892B0" />
-</p>
+\<!-- ═══════════════ HERO SECTION ═══════════════ -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&background=00000000&center=true&vCenter=true&width=600&lines=Building+my+future%2C+one+commit+at+a+time+%F0%9F%9A%80;Turning+coffee+%E2%98%95+into+production+code+%F0%9F%92%BB;Solving+DSA+problems+daily+%F0%9F%A7%A9;Exploring+the+depths+of+AI+%26+ML+%F0%9F%A4%96" alt="Typing SVG" />
-</p>
+\<p align="center">   \<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0F172A,70:164E63,100:06B6D4&height=240&section=header&text=PRIYANSHI%20GOYAL&fontSize=48&fontColor=E0F7FF&animation=fadeIn&fontAlignY=36&desc=Code%20%7C%20Create%20%7C%20Evolve&descAlignY=57&descSize=20&descColor=67E8F9](https://capsule-render.vercel.app/api?type=waving\&color=0:020617,35:0F172A,70:164E63,100:06B6D4\&height=240\&section=header\&text=PRIYANSHI%20GOYAL\&fontSize=48\&fontColor=E0F7FF\&animation=fadeIn\&fontAlignY=36\&desc=Code%20%7C%20Create%20%7C%20Evolve\&descAlignY=57\&descSize=20\&descColor=67E8F9)" width="100%" alt="Priyanshi Goyal animated banner"/> \</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Priyanshi00goyal&label=SYSTEM%20ACCESSES&color=00F0FF&style=for-the-badge&logo=git&logoColor=0a192f" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/Priyanshi00goyal?label=NETWORK%20FOLLOWERS&style=for-the-badge&color=172a45&logo=github&logoColor=00F0FF" alt="followers" />
-</p>
+\<p align="center">   \<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=650&lines=C%2B%2B+%26+Data+Structures+%26+Algorithms;Python+Developer+in+Progress;Exploring+Classical+Machine+Learning;Turning+Ideas+Into+Working+Projects](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=19\&duration=2800\&pause=900\&color=67E8F9\&center=true\&vCenter=true\&width=650\&lines=C%2B%2B+%26+Data+Structures+%26+Algorithms;Python+Developer+in+Progress;Exploring+Classical+Machine+Learning;Turning+Ideas+Into+Working+Projects)" alt="Animated introduction"/> \</p>
+
+\<p align="center">   \<a href="[https://github.com/Priyanshi00Goyal](https://github.com/Priyanshi00Goyal)">     \<img src="[https://img.shields.io/badge/GitHub-Priyanshi00Goyal-0F172A?style=for-the-badge&logo=github&logoColor=67E8F9](https://img.shields.io/badge/GitHub-Priyanshi00Goyal-0F172A?style=for-the-badge\&logo=github\&logoColor=67E8F9)" alt="GitHub"/>   \</a>   \<a href="[https://www.linkedin.com/in/priyanshi-goyal-a72b42379/](https://www.linkedin.com/in/priyanshi-goyal-a72b42379/)">     \<img src="[https://img.shields.io/badge/LinkedIn-Connect-0F172A?style=for-the-badge&logo=linkedin&logoColor=67E8F9](https://img.shields.io/badge/LinkedIn-Connect-0F172A?style=for-the-badge\&logo=linkedin\&logoColor=67E8F9)" alt="LinkedIn"/>   \</a>   \<img src="[https://komarev.com/ghpvc/?username=Priyanshi00Goyal&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS](https://komarev.com/ghpvc/?username=Priyanshi00Goyal\&style=for-the-badge\&color=0891B2\&label=PROFILE+VIEWS)" alt="Profile views"/> \</p>
+
+\<p align="center">   \<b>✦ Computer Science Student · Problem Solver · Lifelong Learner ✦\</b> \</p>
 
 ---
 
-## 👩‍💻 About Me
+## ◈  01 — THE DEVELOPER
 
-<img align="right" width="280" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gif3.gif" alt="coding gif" />
+\<img align="right" width="250" src="[https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gif3.gif](https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gif3.gif)" alt="Coding animation"/>
 
-*   🎓 **Academic Path:** B.Tech Computer Science Engineering — 2nd Year
-*   💻 **Core Focus:** Sharpening Data Structures & Algorithms in C++ daily
-*   🌱 **Current Horizon:** Diving into AI & Machine Learning architectures
-*   📚 **Philosophy:** Building efficient software that cracks real-world problems
-*   🎯 **Ultimate Goal:** Evolving into a high-impact Software & AI Engineer
-*   ⚡ **Fun Fact:** I convert fast-paced music into bug-free logic 🎵
+Hey there! I'm **Priyanshi**, a second-year Computer Science Engineering student who enjoys solving problems, building applications, and exploring how technology can turn ideas into reality.
 
-<br/>
+- 🎓 B.Tech in Computer Science Engineering
+- ⚡ Practicing DSA with C++
+- 🐍 Developing projects with Python
+- 🤖 Learning Classical Machine Learning
+- 🚀 Improving through hands-on projects and consistent practice
 
-<p align="left">
-  <img src="https://img.shields.io/badge/B.Tech-CSE-00F0FF?style=for-the-badge&labelColor=0a192f" />
-  <img src="https://img.shields.io/badge/Year-2nd-8892B0?style=for-the-badge&labelColor=0a192f" />
-  <img src="https://img.shields.io/badge/CGPA-9.25-00F0FF?style=for-the-badge&labelColor=0a192f" />
-  <img src="https://img.shields.io/badge/Role-Problem--Solver-8892B0?style=for-the-badge&labelColor=0a192f" />
-</p>
+\<br clear="right"/>
 
----
-
-## 🔥 Current Objectives
-*   📌 Solving DSA Problems Daily (Consistency is 🔑)
-*   📌 Architecting Modular C++ Projects
-*   📌 Mastering Git & Advanced GitHub Workflows
-*   📌 Preparing Strategy for Elite Internships
-*   📌 Accelerating my AI/ML Theoretical Foundations
+\<p align="center">
+&#x20; \<img src="[https://img.shields.io/badge/MINDSET-Always%20Learning-164E63?style=flat-square&labelColor=0F172A](https://img.shields.io/badge/MINDSET-Always%20Learning-164E63?style=flat-square\&labelColor=0F172A)" alt="Always learning"/>
+&#x20; \<img src="[https://img.shields.io/badge/FOCUS-Problem%20Solving-164E63?style=flat-square&labelColor=0F172A](https://img.shields.io/badge/FOCUS-Problem%20Solving-164E63?style=flat-square\&labelColor=0F172A)" alt="Problem solving"/>
+&#x20; \<img src="[https://img.shields.io/badge/BUILDING-One%20Project%20at%20a%20Time-164E63?style=flat-square&labelColor=0F172A](https://img.shields.io/badge/BUILDING-One%20Project%20at%20a%20Time-164E63?style=flat-square\&labelColor=0F172A)" alt="Building projects"/>
+\</p>
 
 ---
 
-## 🛠️ Tech Stack & Arsenal
+## ◈  02 — MY TECH UNIVERSE
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,vscode,linux&theme=dark" />
-</p>
+\<p align="center">
+&#x20; \<img src="[https://skillicons.dev/icons?i=cpp,python,c,git,github,vscode,linux&theme=dark](https://skillicons.dev/icons?i=cpp,python,c,git,github,vscode,linux\&theme=dark)" alt="Programming languages and tools"/>
+\</p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/DSA-Problem%20Solving-00F0FF?style=for-the-badge&labelColor=0a192f" />
-  <img src="https://img.shields.io/badge/AI%2FML-Learning-8892B0?style=for-the-badge&labelColor=0a192f" />
-</p>
+\<p align="center">
+&#x20; \<img src="[https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-0F172A?style=for-the-badge&logo=thealgorithms&logoColor=67E8F9](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-0F172A?style=for-the-badge\&logo=thealgorithms\&logoColor=67E8F9)" alt="DSA"/>
+&#x20; \<img src="[https://img.shields.io/badge/Machine%20Learning-0F172A?style=for-the-badge&logo=scikitlearn&logoColor=67E8F9](https://img.shields.io/badge/Machine%20Learning-0F172A?style=for-the-badge\&logo=scikitlearn\&logoColor=67E8F9)" alt="Machine learning"/>
+&#x20; \<img src="[https://img.shields.io/badge/Streamlit-0F172A?style=for-the-badge&logo=streamlit&logoColor=67E8F9](https://img.shields.io/badge/Streamlit-0F172A?style=for-the-badge\&logo=streamlit\&logoColor=67E8F9)" alt="Streamlit"/>
+\</p>
 
 ---
 
-## 📊 Core GitHub Metrics
+## ◈  03 — SELECTED BUILDS
 
-## 📂 Featured Projects
-
-⭐ **⭐ = Highlighted project |** Projects are grouped by relevance, not claimed performance.
-
-### 🌟 Featured — AI, Machine Learning & Applications
-
-\<table width="100%">   \<tr>     \<td width="50%" valign="top">       \<h3>🎵 TuneMatch ⭐\</h3>       \<p>A music discovery and recommendation application with mood-based exploration, similarity-based recommendations, playlists, and analytics.\</p>       \<p>\<b>Tech:\</b> Python, Streamlit, Scikit-learn\</p>       \<a href="[https://github.com/Priyanshi00Goyal/TuneMatch](https://github.com/Priyanshi00Goyal/TuneMatch)">Repository\</a> · \<a href="[https://tunematch-8y24ejjnpcfqykac8diw79.streamlit.app/](https://tunematch-8y24ejjnpcfqykac8diw79.streamlit.app/)">Live Demo\</a>     \</td>     \<td width="50%" valign="top">       \<h3>🤖 CareerMate AI ⭐\</h3>       \<p>An AI-powered career assistance application focused on career guidance, resume analysis, skill gaps, and personalized career planning.\</p>       \<p>\<b>Tech:\</b> Python, Streamlit, Gemini integration\</p>       \<a href="[https://github.com/Priyanshi00Goyal/CareerMate-AI](https://github.com/Priyanshi00Goyal/CareerMate-AI)">Repository\</a> · \<a href="[https://careermate-ai-priyanshi.streamlit.app/](https://careermate-ai-priyanshi.streamlit.app/)">Live Demo\</a>     \</td>   \</tr>   \<tr>     \<td width="50%" valign="top">       \<h3>💻 CodeMate ⭐\</h3>       \<p>An AI-assisted coding application with code analysis, coding help, and progress-tracking features.\</p>       \<p>\<b>Tech:\</b> Python, Streamlit, AI integration\</p>       \<a href="[https://codemate-34bpt8avhuvv7odcd3k.streamlit.app/](https://codemate-34bpt8avhuvv7odcd3k.streamlit.app/)">Live Demo\</a> · \<a href="[CODEMATE_REPOSITORY_URL]">Repository\</a>     \</td>     \<td width="50%" valign="top">       \<h3>🛡️ Credit Card Fraud Detection ⭐\</h3>       \<p>A classical machine learning classification project focused on identifying potentially fraudulent credit card transactions.\</p>       \<p>\<b>Tech:\</b> Python, Pandas, Scikit-learn\</p>       \<a href="[https://github.com/Priyanshi00Goyal/credit-card-fraud-detection](https://github.com/Priyanshi00Goyal/credit-card-fraud-detection)">Repository\</a>     \</td>   \</tr>   \<tr>     \<td width="50%" valign="top">       \<h3>📊 Customer Churn Prediction ⭐\</h3>       \<p>A machine learning project that predicts customer churn to support customer retention analysis.\</p>       \<p>\<b>Tech:\</b> Python, Pandas, Scikit-learn\</p>       \<a href="[CHURN_REPOSITORY_URL]">Repository\</a> · \<a href="[CHURN_LIVE_DEMO_URL]">Live Demo\</a>     \</td>     \<td width="50%" valign="top">       \<h3>🏠 House Price Prediction\</h3>       \<p>\<i>Planned project:\</i> A regression-based ML application for estimating house prices from property features.\</p>       \<p>\<b>Focus:\</b> Regression, feature engineering, model evaluation\</p>     \</td>   \</tr>   \<tr>     \<td width="50%" valign="top">       \<h3>👥 Customer Segmentation\</h3>       \<p>\<i>Planned project:\</i> Grouping customers into meaningful segments using unsupervised learning.\</p>       \<p>\<b>Focus:\</b> Clustering, exploratory data analysis\</p>     \</td>     \<td width="50%" valign="top">       \<h3>💬 Spam/Text Classification\</h3>       \<p>\<i>Planned project:\</i> Classifying text messages into categories such as spam and legitimate messages.\</p>       \<p>\<b>Focus:\</b> Text preprocessing, TF-IDF, classification\</p>     \</td>   \</tr> \</table>
-
-### 💻 C++ Projects
-
-\<table width="100%">   \<tr>     \<td width="50%" valign="top">       \<h3>🧩 Sudoku Solver ⭐\</h3>       \<p>A Sudoku-solving application using backtracking, with difficulty levels, a timer, scoring, player statistics, and file handling.\</p>       \<p>\<b>Tech:\</b> C++, Backtracking, File Handling\</p>       \<a href="[SUDOKU_REPOSITORY_URL]">Repository\</a>     \</td>     \<td width="50%" valign="top">       \<h3>⚔️ DSA Vault ⭐\</h3>       \<p>A collection of Data Structures & Algorithms solutions in C++, focused on problem-solving and algorithmic thinking.\</p>       \<p>\<b>Tech:\</b> C++, DSA, Algorithms\</p>       \<a href="[DSA_VAULT_REPOSITORY_URL]">Repository\</a>     \</td>   \</tr>   \<tr>     \<td width="50%" valign="top">       \<h3>🚀 Study Planner\</h3>       \<p>A C++ console application designed to organize study schedules and support student productivity.\</p>       \<p>\<b>Tech:\</b> C++, Programming Fundamentals\</p>       \<a href="[STUDY_PLANNER_REPOSITORY_URL]">Repository\</a>     \</td>     \<td width="50%" valign="top">       \<h3>💰 Smart Expense Tracker\</h3>       \<p>A C++ expense management system for recording, organizing, and reviewing personal expenses.\</p>       \<p>\<b>Tech:\</b> C++, Data Handling\</p>       \<a href="[EXPENSE_TRACKER_REPOSITORY_URL]">Repository\</a>     \</td>   \</tr>   \<tr>     \<td width="50%" valign="top">       \<h3>🏦 Banking Management System\</h3>       \<p>A banking application for managing accounts, customer records, transactions, and file-based data storage.\</p>       \<p>\<b>Tech:\</b> C++, File Handling\</p>       \<a href="[BANKING_REPOSITORY_URL]">Repository\</a>     \</td>     \<td width="50%" valign="top">       \<h3>🔐 Login & Registration System\</h3>       \<p>A basic authentication system featuring user registration, login verification, password management, and file handling.\</p>       \<p>\<b>Tech:\</b> C++, File Handling\</p>       \<a href="[LOGIN_SYSTEM_REPOSITORY_URL]">Repository\</a>     \</td>   \</tr> \</table>
-
-### 🐍 Python Projects
+\<p align="center">
+&#x20; \<i>A collection of applications, experiments, and problem-solving projects.\</i>
+\</p>
 
 \<table width="100%">
 &#x20; \<tr>
 &#x20;   \<td width="50%" valign="top">
-&#x20;     \<h3>🔐 Password Generator\</h3>
-&#x20;     \<p>A Python application for generating customizable passwords using randomized character selection.\</p>
-&#x20;     \<p>\<b>Tech:\</b> Python, Randomization\</p>
-&#x20;     \<a href="[PASSWORD_GENERATOR_REPOSITORY_URL]">Repository\</a>
+&#x20;     \<p align="center">
+&#x20;       \<img src="[https://img.shields.io/badge/01-MACHINE%20LEARNING-164E63?style=for-the-badge](https://img.shields.io/badge/01-MACHINE%20LEARNING-164E63?style=for-the-badge)" alt="Machine learning"/>
+&#x20;     \</p>
+&#x20;     \<h3 align="center">🎵 TuneMatch\</h3>
+&#x20;     \<p align="center">Discover music through moods and similarity-based recommendations, with playlist and analytics features.\</p>
+&#x20;     \<p align="center">
+&#x20;       \<img src="[https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)" alt="Python"/>
+&#x20;       \<img src="[https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square\&logo=streamlit\&logoColor=white)" alt="Streamlit"/>
+&#x20;       \<img src="[https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square\&logo=scikitlearn\&logoColor=white)" alt="Scikit-learn"/>
+&#x20;     \</p>
+&#x20;     \<p align="center">
+&#x20;       \<a href="[https://github.com/Priyanshi00Goyal/TuneMatch](https://github.com/Priyanshi00Goyal/TuneMatch)">↗ Source Code\</a> ·
+&#x20;       \<a href="[https://tunematch-8y24ejjnpcfqykac8diw79.streamlit.app/](https://tunematch-8y24ejjnpcfqykac8diw79.streamlit.app/)">Live Demo\</a>
+&#x20;     \</p>
 &#x20;   \</td>
 &#x20;   \<td width="50%" valign="top">
-&#x20;     \<h3>🧮 Python Calculator\</h3>
-&#x20;     \<p>A command-line calculator supporting arithmetic operations, input validation, and modular program structure.\</p>
-&#x20;     \<p>\<b>Tech:\</b> Python\</p>
-&#x20;     \<a href="[CALCULATOR_REPOSITORY_URL]">Repository\</a>
+&#x20;     \<p align="center">
+&#x20;       \<img src="[https://img.shields.io/badge/02-ARTIFICIAL%20INTELLIGENCE-164E63?style=for-the-badge](https://img.shields.io/badge/02-ARTIFICIAL%20INTELLIGENCE-164E63?style=for-the-badge)" alt="Artificial intelligence"/>
+&#x20;     \</p>
+&#x20;     \<h3 align="center">🤖 CareerMate AI\</h3>
+&#x20;     \<p align="center">An AI-powered career assistant designed to help users explore career paths, review resumes, and identify skill gaps.\</p>
+&#x20;     \<p align="center">
+&#x20;       \<img src="[https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)" alt="Python"/>
+&#x20;       \<img src="[https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square\&logo=streamlit\&logoColor=white)" alt="Streamlit"/>
+&#x20;       \<img src="[https://img.shields.io/badge/Gemini%20Integration-4285F4?style=flat-square&logo=googlegemini&logoColor=white](https://img.shields.io/badge/Gemini%20Integration-4285F4?style=flat-square\&logo=googlegemini\&logoColor=white)" alt="Gemini"/>
+&#x20;     \</p>
+&#x20;     \<p align="center">
+&#x20;       \<a href="[https://github.com/Priyanshi00Goyal/CareerMate-AI](https://github.com/Priyanshi00Goyal/CareerMate-AI)">↗ Source Code\</a> ·
+&#x20;       \<a href="[https://careermate-ai-priyanshi.streamlit.app/](https://careermate-ai-priyanshi.streamlit.app/)">Live Demo\</a>
+&#x20;     \</p>
 &#x20;   \</td>
 &#x20; \</tr>
 &#x20; \<tr>
 &#x20;   \<td width="50%" valign="top">
-&#x20;     \<h3>🎯 Number Guessing Game\</h3>
-&#x20;     \<p>A command-line game featuring difficulty levels, limited attempts, and score tracking.\</p>
-&#x20;     \<p>\<b>Tech:\</b> Python, Conditional Logic\</p>
-&#x20;     \<a href="[NUMBER_GUESSING_REPOSITORY_URL]">Repository\</a>
+&#x20;     \<p align="center">
+&#x20;       \<img src="[https://img.shields.io/badge/03-AI%20%2B%20CODING-164E63?style=for-the-badge](https://img.shields.io/badge/03-AI%20%2B%20CODING-164E63?style=for-the-badge)" alt="AI coding"/>
+&#x20;     \</p>
+&#x20;     \<h3 align="center">💻 CodeMate\</h3>
+&#x20;     \<p align="center">An AI-assisted coding application with coding support, code analysis, and progress-tracking features.\</p>
+&#x20;     \<p align="center">
+&#x20;       \<img src="[https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)" alt="Python"/>
+&#x20;       \<img src="[https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square\&logo=streamlit\&logoColor=white)" alt="Streamlit"/>
+&#x20;     \</p>
+&#x20;     \<p align="center">
+&#x20;       \<a href="[https://codemate-34bpt8avhuvv7odcd3k.streamlit.app/](https://codemate-34bpt8avhuvv7odcd3k.streamlit.app/)">↗ Explore Live App\</a>
+&#x20;     \</p>
 &#x20;   \</td>
 &#x20;   \<td width="50%" valign="top">
-&#x20;     \<h3>✊ Rock Paper Scissors\</h3>
-&#x20;     \<p>A Python game featuring computer-generated moves, best-of-3/5/7 matches, and score tracking.\</p>
-&#x20;     \<p>\<b>Tech:\</b> Python, Game Logic\</p>
-&#x20;     \<a href="[ROCK_PAPER_SCISSORS_REPOSITORY_URL]">Repository\</a>
+&#x20;     \<p align="center">
+&#x20;       \<img src="[https://img.shields.io/badge/04-CLASSICAL%20ML-164E63?style=for-the-badge](https://img.shields.io/badge/04-CLASSICAL%20ML-164E63?style=for-the-badge)" alt="Classical machine learning"/>
+&#x20;     \</p>
+&#x20;     \<h3 align="center">🛡️ Credit Card Fraud Detection\</h3>
+&#x20;     \<p align="center">A classification project exploring the identification of potentially fraudulent credit card transactions.\</p>
+&#x20;     \<p align="center">
+&#x20;       \<img src="[https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)" alt="Python"/>
+&#x20;       \<img src="[https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)" alt="Pandas"/>
+&#x20;       \<img src="[https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square\&logo=scikitlearn\&logoColor=white)" alt="Scikit-learn"/>
+&#x20;     \</p>
+&#x20;     \<p align="center">\<i>Repository link to be added after verification.\</i>\</p>
 &#x20;   \</td>
 &#x20; \</tr>
 \</table>
 
-### 🌐 Web Development & Other Work
-
-\<table width="100%">
-&#x20; \<tr>
-&#x20;   \<td width="50%" valign="top">
-&#x20;     \<h3>🏡 Property Post Maker\</h3>
-&#x20;     \<p>A web application for creating property-related promotional posts.\</p>
-&#x20;     \<p>\<b>Tech:\</b> Web Development, Vercel\</p>
-&#x20;     \<a href="[PROPERTY_POST_MAKER_URL]">Open Project\</a>
-&#x20;   \</td>
-&#x20;   \<td width="50%" valign="top">
-&#x20;     \<h3>📄 Interactive Resume\</h3>
-&#x20;     \<p>An interactive online resume presenting education, skills, projects, and professional contact information.\</p>
-&#x20;     \<a href="[RESUME_URL]">View Resume\</a>
-&#x20;   \</td>
-&#x20; \</tr>
-\</table>
+\<p align="center">
+&#x20; \<b>Also exploring:\</b> Customer Churn Prediction · C++ Applications · Python Mini Projects
+\</p>
 
 ---
 
-\<p align="center">\<i>Building projects, strengthening fundamentals, and learning one step at a time. 🚀\</i>\</p>
+## ◈  04 — THE GITHUB DASHBOARD
 
+\<p align="center">   \<img width="49%" src="[https://github-readme-stats.vercel.app/api?username=Priyanshi00Goyal&show_icons=true&hide_border=true&bg_color=0D1117&title_color=67E8F9&icon_color=22D3EE&text_color=C9D1D9&rank_icon=github](https://github-readme-stats.vercel.app/api?username=Priyanshi00Goyal\&show_icons=true\&hide_border=true\&bg_color=0D1117\&title_color=67E8F9\&icon_color=22D3EE\&text_color=C9D1D9\&rank_icon=github)" alt="GitHub stats"/>   \<img width="49%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshi00Goyal&layout=compact&hide_border=true&bg_color=0D1117&title_color=67E8F9&text_color=C9D1D9](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshi00Goyal\&layout=compact\&hide_border=true\&bg_color=0D1117\&title_color=67E8F9\&text_color=C9D1D9)" alt="Most used languages"/> \</p>
 
----
+\<p align="center">   \<img width="90%" src="[https://github-readme-streak-stats.herokuapp.com/?user=Priyanshi00Goyal&hide_border=true&background=0D1117&ring=22D3EE&fire=67E8F9&currStreakLabel=67E8F9&sideLabels=C9D1D9&dates=8892B0](https://github-readme-streak-stats.herokuapp.com/?user=Priyanshi00Goyal\&hide_border=true\&background=0D1117\&ring=22D3EE\&fire=67E8F9\&currStreakLabel=67E8F9\&sideLabels=C9D1D9\&dates=8892B0)" alt="GitHub contribution streak"/> \</p>
 
-📚 DSA Topic Progress
-
-===========================================
-
-C++ Fundamentals         ██████████ 100% ✅
-
-Time Complexity          ██████████ 100% ✅
-
-STL                      ██████████ 100% ✅
-
-Arrays                   ██████████ 100% ✅
-
-Two Pointers             ██████████ 100% ✅
-
-Prefix Sum               ██████████ 100% ✅
-
-Bit Manipulation         ███████░░░ 70% 🟡
-
-Hashing                  ██████░░░░ 60% 🟡
-
-Binary Search            ██████░░░░ 60% 🟡
-
-Strings                  ░░░░░░░░░░ 0%
-
-Linked Lists             ░░░░░░░░░░ 0%
-
-Recursion & Backtracking ░░░░░░░░░░ 0%
-
-Stack                    ░░░░░░░░░░ 0%
-
-Queue                    ░░░░░░░░░░ 0%
-
-Sliding Window           ░░░░░░░░░░ 0%
-
-Greedy Algorithms        ░░░░░░░░░░ 0%
-
-Trees                    ░░░░░░░░░░ 0%
-
-Heaps                    ░░░░░░░░░░ 0%
-
-Graphs                   ░░░░░░░░░░ 0%
-
-Dynamic Programming      ░░░░░░░░░░ 0%
+\<p align="center">   \<img width="95%" src="[https://github-readme-activity-graph.vercel.app/graph?username=Priyanshi00Goyal&bg_color=0D1117&color=67E8F9&line=0891B2&point=E0F7FF&area=true&hide_border=true](https://github-readme-activity-graph.vercel.app/graph?username=Priyanshi00Goyal\&bg_color=0D1117\&color=67E8F9\&line=0891B2\&point=E0F7FF\&area=true\&hide_border=true)" alt="GitHub contribution activity graph"/> \</p>
 
 ---
 
-## 🎯 2026 Directives
-- [ ] 🧩 Systematically decode **300+** advanced DSA challenges
-- [ ] 🏗️ Push **15+** fully-functional applications to production
-- [ ] 🤖 Implement foundational neural nets and ML pipelines from scratch
-- [ ] 🌍 Contribute structural patches to the Open Source ecosystem
-- [ ] 💼 Secure a premier Software Engineering Internship
+## ◈  05 — CURRENT QUESTS
+
+\<p>
+&#x20; \<img src="[https://img.shields.io/badge/QUEST-01-0891B2?style=for-the-badge](https://img.shields.io/badge/QUEST-01-0891B2?style=for-the-badge)" alt="Quest 1"/>
+&#x20; \*\*Mastering DSA\*\* — building stronger problem-solving skills in C++.
+\</p>
+\<p>
+&#x20; \<img src="[https://img.shields.io/badge/QUEST-02-0891B2?style=for-the-badge](https://img.shields.io/badge/QUEST-02-0891B2?style=for-the-badge)" alt="Quest 2"/>
+&#x20; \*\*Building Better Projects\*\* — improving implementation, structure, and documentation.
+\</p>
+\<p>
+&#x20; \<img src="[https://img.shields.io/badge/QUEST-03-0891B2?style=for-the-badge](https://img.shields.io/badge/QUEST-03-0891B2?style=for-the-badge)" alt="Quest 3"/>
+&#x20; \*\*Classical Machine Learning\*\* — strengthening foundations through practical projects.
+\</p>
+\<p>
+&#x20; \<img src="[https://img.shields.io/badge/QUEST-04-0891B2?style=for-the-badge](https://img.shields.io/badge/QUEST-04-0891B2?style=for-the-badge)" alt="Quest 4"/>
+&#x20; \*\*Career Growth\*\* — preparing for meaningful software development and AI/ML opportunities.
+\</p>
 
 ---
 
-## 📫 Secure a Connection
+## ◈  06 — LET'S CONNECT
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/priyanshi-goyal-a72b42379" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A192F?style=for-the-badge&logo=linkedin&logoColor=00F0FF" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Priyanshi00goyal" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-0A192F?style=for-the-badge&logo=github&logoColor=00F0FF" alt="GitHub"/>
-  </a>
-</p>
+\<p align="center">   \<a href="[https://www.linkedin.com/in/priyanshi-goyal-a72b42379/](https://www.linkedin.com/in/priyanshi-goyal-a72b42379/)">     \<img src="[https://img.shields.io/badge/LinkedIn-Professional%20Network-0F172A?style=for-the-badge&logo=linkedin&logoColor=67E8F9](https://img.shields.io/badge/LinkedIn-Professional%20Network-0F172A?style=for-the-badge\&logo=linkedin\&logoColor=67E8F9)" alt="LinkedIn"/>   \</a>   \<a href="[https://github.com/Priyanshi00Goyal](https://github.com/Priyanshi00Goyal)">     \<img src="[https://img.shields.io/badge/GitHub-Explore%20My%20Work-0F172A?style=for-the-badge&logo=github&logoColor=67E8F9](https://img.shields.io/badge/GitHub-Explore%20My%20Work-0F172A?style=for-the-badge\&logo=github\&logoColor=67E8F9)" alt="GitHub"/>   \</a> \</p>
 
-<p align="center">
-  <sub>Tracked • Compiled • Built by <b>Priyanshi Goyal</b> 🌐</sub>
-</p>
+\<p align="center">   \<i>“Small steps. Consistent effort. Meaningful progress.”\</i> \</p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:172a45,50:0a192f,100:020c1b&height=120&section=footer"/>
-</p>
+\<p align="center">   \<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:164E63,100:020617&height=130&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=0:06B6D4,50:164E63,100:020617\&height=130\&section=footer)" width="100%" alt="Animated footer"/> \</p>
