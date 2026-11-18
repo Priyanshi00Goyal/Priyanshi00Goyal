@@ -217,6 +217,7 @@ A machine learning project focused on identifying potentially fraudulent credit 
 ## 🤝 Let's Connect
 
 <p align="center">
+  <a href="https://priyanshigoyal.github.io/">   <img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-7C3AED?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/> </a>
   <a href="https://github.com/Priyanshi00Goyal">
     <img src="https://img.shields.io/badge/GitHub-Priyanshi00Goyal-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
   </a>
