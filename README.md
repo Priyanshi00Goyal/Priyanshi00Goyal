@@ -50,7 +50,9 @@ I'm a Computer Science student passionate about programming, problem-solving, an
 
 <h3 align="center">🐍 Python Libraries & Frameworks</h3>
 <p align="center">
+  <img src="https://img.shields.io/badge/NumPy-6D28D9?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Pandas-7C3AED?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Matplotlib-9333EA?style=for-the-badge" alt="Matplotlib" />
   <img src="https://img.shields.io/badge/Scikit--learn-A855F7?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
   <img src="https://img.shields.io/badge/Streamlit-EC4899?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
 </p>
