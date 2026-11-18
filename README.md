@@ -1,7 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=170&section=header&text=Priyanshi%20Goyal&fontSize=46&fontColor=F5F3FF&fontAlignY=38&desc=B.Tech%20CSE%20Student%20%7C%20Python%20%26%20C%2B%2B%20%7C%20Aspiring%20Software%20Developer&descSize=16&descAlignY=60" alt="Priyanshi Goyal banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=170&section=header&text=Priyanshi%20Goyal&fontSize=46&fontColor=F5F3FF&fontAlignY=38&desc=B.Tech%20CSE%20Student%20%7C%20Aspiring%20Software%20Developer%20%7C%20AI%2FML%20Enthusiast&descSize=16&descAlignY=60" alt="Priyanshi Goyal banner" width="100%" />
 
 <a href="https://github.com/Priyanshi00Goyal">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=620&height=50&lines=Learning+something+new+every+day;Building+projects+with+C%2B%2B+and+Python;Practicing+DSA+one+problem+at+a+time;Exploring+Machine+Learning;Dream%2C+Build%2C+Learn%2C+Grow" alt="Animated typing: Learning something new every day, building projects with C++ and Python, practicing DSA, exploring Machine Learning" />
@@ -18,19 +18,27 @@
 
 ---
 
-## 👩‍💻 About Me
+## 👋 Hi, I'm Priyanshi Goyal
 
-- 🎓 Second-year **B.Tech Computer Science Engineering** student at **Uttaranchal Institute of Technology**
-- 📚 Currently focused on **C++ Data Structures & Algorithms** and problem-solving
-- 🐍 Building practical applications in **Python**
-- 🤖 Exploring **Classical Machine Learning** through hands-on projects
-- 🌱 Learning good **Git & GitHub** practices
-- 💼 Gained hands-on exposure through internships at **CodeAlpha, Decode Labs, Codec Technology, and CodSoft**
-- 🎯 Actively preparing for **software development internships**
+🎓 **B.Tech Computer Science Engineering Student** at Uttaranchal Institute of Technology
+💻 **Aspiring Software Developer | AI/ML Enthusiast**
+
+I'm a Computer Science student passionate about programming, problem-solving, and building practical software projects. I'm strengthening my foundations in **C++, Data Structures & Algorithms, Python, and Classical Machine Learning** while developing projects that turn ideas into useful applications.
+
+> 💡 I believe in learning by building, improving consistently, and writing code that solves real problems.
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 What I'm Working On
+
+- 📚 Practicing **Data Structures & Algorithms in C++** to strengthen problem-solving skills
+- 🤖 Building projects with **Python** and **Classical Machine Learning**
+- 🌐 Developing interactive applications using **Streamlit**
+- 🛠️ Improving my software development skills through hands-on projects and continuous learning
+
+---
+
+## 🧰 Tech Stack
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
@@ -52,19 +60,54 @@
   <img src="https://img.shields.io/badge/scikit--learn-DB2777?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
 </p>
 
+**Core Computer Science:** Data Structures & Algorithms · Object-Oriented Programming fundamentals
+**ML & Data:** Classical Machine Learning · Data preprocessing and feature scaling · Similarity-based recommendation systems
+
 ---
 
-## 🚀 Featured Projects
+## 🌟 Featured Projects
 
-| Project | Description | Links |
-| :------ | :---------- | :---- |
-| 🎵 **TuneMatch** | Python-based music discovery and recommendation application. | [Repository](https://github.com/Priyanshi00Goyal/TuneMatch) |
-| 🧭 **CareerMate AI** | AI-powered career assistance application. | [Repository](https://github.com/Priyanshi00Goyal/CareerMate-AI) |
-| 💻 **CodeMate** | AI-assisted coding and learning application. | [Live Demo](https://codemate-34bpt8avhuvv7odcd3k.streamlit.app/) |
-| 📉 **Customer Churn Prediction** | Classical ML classification project to predict customer churn. | <!-- TODO: add repository link --> |
-| 💳 **Credit Card Fraud Detection** | Classical ML classification project to detect fraudulent transactions. | <!-- TODO: add repository link --> |
+### 🎵 TuneMatch
+A music discovery and recommendation application that helps users explore songs based on their preferences and moods.
 
-<!-- House Price Prediction: add a row here only after a verified repository exists. -->
+- Built with **Python** and **Streamlit**
+- Uses similarity-based recommendations and feature scaling
+- Includes mood-based discovery and playlist-related features
+
+<a href="https://github.com/Priyanshi00Goyal/TuneMatch"><img src="https://img.shields.io/badge/Repository-TuneMatch-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="TuneMatch repository" /></a>
+<a href="https://tune-match.streamlit.app/"><img src="https://img.shields.io/badge/Live%20Demo-Open-EC4899?style=for-the-badge&logo=streamlit&logoColor=white" alt="TuneMatch live demo" /></a>
+
+### 🤖 CareerMate AI
+An AI-powered career assistance project focused on supporting career-related tasks through an interactive application.
+
+- Developed using **Python** and **Streamlit**
+- Designed as a practical AI application
+- Project capabilities and setup instructions will be documented in the repository
+
+<a href="https://github.com/Priyanshi00Goyal/CareerMate-AI"><img src="https://img.shields.io/badge/Repository-CareerMate--AI-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="CareerMate AI repository" /></a>
+<a href="https://careermate-ai-priyanshi.streamlit.app/"><img src="https://img.shields.io/badge/Live%20Demo-Open-EC4899?style=for-the-badge&logo=streamlit&logoColor=white" alt="CareerMate AI live demo" /></a>
+
+### 💻 CodeMate
+An interactive coding assistant project designed to support coding-related tasks.
+
+- Built with **Python** and **Streamlit**
+- Includes coding assistance and code-analysis-related features
+- Uses an AI integration for selected assistant functionality
+
+<a href="https://github.com/Priyanshi00Goyal/CodeMate"><img src="https://img.shields.io/badge/Repository-CodeMate-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="CodeMate repository" /></a>
+<a href="https://codemate-34bpt8avhuvv7odcd3k.streamlit.app/"><img src="https://img.shields.io/badge/Live%20Demo-Open-EC4899?style=for-the-badge&logo=streamlit&logoColor=white" alt="CodeMate live demo" /></a>
+
+### 📊 Customer Churn Prediction
+A machine learning project focused on predicting customer churn using customer data.
+
+<a href="https://github.com/Priyanshi00Goyal/customer-churn-prediction"><img src="https://img.shields.io/badge/Repository-Churn%20Prediction-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Customer Churn Prediction repository" /></a>
+
+### 🛡️ Credit Card Fraud Detection
+A machine learning project focused on identifying potentially fraudulent credit card transactions.
+
+<a href="https://github.com/Priyanshi00Goyal/credit-card-fraud-detection"><img src="https://img.shields.io/badge/Repository-Fraud%20Detection-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Credit Card Fraud Detection repository" /></a>
+
+<!-- House Price Prediction: add a section here only after a verified repository exists. -->
 
 ---
 
@@ -117,41 +160,51 @@
 
 ---
 
-## 🎯 Current Focus & Goals
+## 📈 Currently Learning
 
-These are my ongoing learning goals, not finished achievements:
-
-- 🧠 Strengthening **C++ DSA** and problem-solving
-- 🐍 Developing practical **Python applications**
-- 📉 Improving my **Classical ML** projects
-- 🔀 Learning good **Git & GitHub** practices
-- 💼 Preparing for **software development internships**
-- 🌍 Exploring **open-source contributions**
+- Improving DSA and algorithmic problem-solving in C++
+- Strengthening Python programming skills
+- Understanding and applying Classical Machine Learning algorithms
+- Building better, more maintainable and well-documented projects
+- Learning good Git & GitHub practices and exploring open-source contributions
 
 ---
 
-## 🏅 Certification
+## 🏆 Certifications & Experience
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cisco-Python%20Essentials%201-A855F7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Python Essentials 1" />
 </p>
 
+- **Python Essentials 1** — Cisco Networking Academy
+- Completed multiple internships involving software development and related technical work (CodeAlpha, Decode Labs, Codec Technology, CodSoft)
+
+<!-- Individual internship details and credentials can be added here after verification. -->
+
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
 <p align="center">
   <a href="https://github.com/Priyanshi00Goyal">
     <img src="https://img.shields.io/badge/GitHub-Priyanshi00Goyal-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
   </a>
-  <a href="https://www.linkedin.com/in/priyanshi-goyal-a72b42379">
+  <a href="https://www.linkedin.com/in/priyanshi-goyal-a72b42379/">
     <img src="https://img.shields.io/badge/LinkedIn-Priyanshi%20Goyal-EC4899?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
   </a>
+  <a href="https://leetcode.com/u/Priyanshi00/">
+    <img src="https://img.shields.io/badge/LeetCode-Priyanshi00-A855F7?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode profile" />
+  </a>
 </p>
+
+<!-- Email: add a badge here once you have a professional email address, e.g.
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Contact-C026D3?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> -->
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=100&section=footer" alt="Footer wave" width="100%" />
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and follow my journey as I learn, build, and grow as a developer.
 
 ✨ *Dream, Build, Learn, Grow* ✨
 
