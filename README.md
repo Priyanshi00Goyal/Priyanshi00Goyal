@@ -126,21 +126,31 @@ A machine learning project focused on identifying potentially fraudulent credit 
 
 ## 🧮 DSA Progress Tracker
 
-> Counts are placeholders. Replace `TBD` with real numbers as I solve more problems.
+> I track my DSA journey by topic and update this table as I practise and revise.
+> **Legend:** ✅ Completed milestone · 🟡 In progress / revision · ⬜ Pending verification
 
-| Topic | Problems Solved | Target | Progress |
-| :---- | :-------------: | :----: | :------: |
-| Arrays | TBD | TBD | TBD |
-| Strings | TBD | TBD | TBD |
-| Binary Search | TBD | TBD | TBD |
-| Hashing | TBD | TBD | TBD |
-| Recursion | TBD | TBD | TBD |
-| Linked Lists | TBD | TBD | TBD |
-| Stacks & Queues | TBD | TBD | TBD |
-| Trees | TBD | TBD | TBD |
-| Graphs | TBD | TBD | TBD |
-| Greedy | TBD | TBD | TBD |
-| Dynamic Programming | TBD | TBD | TBD |
+| # | Topic | Progress | Status |
+| :-: | :---- | :------- | :----- |
+| 1 | C++ Basics | Covered in earlier practice | 🟡 Review as needed |
+| 2 | Time & Space Complexity | Big-O questions practised | 🟡 Revision needed |
+| 3 | Arrays | Practised in revision | 🟡 In progress |
+| 4 | Sorting Algorithms | Insertion sort and bubble sort discussed | 🟡 Fix mistakes |
+| 5 | Strings | Day 20 reached; reversal practised | ✅ Milestone completed |
+| 6 | String Manipulation | Reverse string, output tracing | 🟡 Practised |
+| 7 | Recursion | Code tracing and base cases practised | 🟡 Revision needed |
+| 8 | Binary Search | Included in revision plan | 🟡 Verify completion |
+| 9 | Mixed DSA Questions | 48-question revision checkpoint | ✅ Checkpoint completed |
+| 10 | Linked Lists | Not verified yet | ⬜ Pending verification |
+| 11 | Stacks & Queues | Not verified yet | ⬜ Pending verification |
+| 12 | Trees & BST | Not verified yet | ⬜ Pending verification |
+| 13 | Heaps & Priority Queues | Not verified yet | ⬜ Pending verification |
+| 14 | Hashing | Not verified yet | ⬜ Pending verification |
+| 15 | Graphs | Not verified yet | ⬜ Pending verification |
+| 16 | Greedy Algorithms | Not verified yet | ⬜ Pending verification |
+| 17 | Backtracking | Not verified yet | ⬜ Pending verification |
+| 18 | Dynamic Programming | Not verified yet | ⬜ Pending verification |
+| 19 | Tries | Not verified yet | ⬜ Pending verification |
+| 20 | Advanced DSA / Mixed Problems | Future practice | ⬜ Pending |
 
 ---
 
