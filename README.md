@@ -38,26 +38,51 @@ I'm a Computer Science student passionate about programming, problem-solving, an
 
 ---
 
-## 🧰 Tech Stack
+## 💻 Tech Stack
 
-<h3 align="center">Programming Languages</h3>
+<h3 align="center">👩‍💻 Programming Languages</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/C-5C2D91?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C++-7C3AED?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-A855F7?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Python-8B5CF6?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-A855F7?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/SQL-C026D3?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
 </p>
 
-<h3 align="center">Development Tools</h3>
+<h3 align="center">🐍 Python Libraries & Frameworks</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-C026D3?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS%20Code-8B5CF6?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
+  <img src="https://img.shields.io/badge/Pandas-7C3AED?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Scikit--learn-A855F7?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
   <img src="https://img.shields.io/badge/Streamlit-EC4899?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
 </p>
 
-<h3 align="center">Machine Learning</h3>
+<h3 align="center">🤖 AI & Machine Learning</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/scikit--learn-DB2777?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-8B5CF6?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+  <img src="https://img.shields.io/badge/Classical%20ML-C026D3?style=for-the-badge" alt="Classical Machine Learning" />
+  <img src="https://img.shields.io/badge/Recommendation%20Systems-DB2777?style=for-the-badge" alt="Recommendation Systems" />
+</p>
+
+<h3 align="center">🌐 Web Development</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-7C3AED?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-8B5CF6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-A855F7?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-C026D3?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+</p>
+
+<h3 align="center">🗄️ Databases & Version Control</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-7C3AED?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Git-A855F7?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+<h3 align="center">🛠️ Tools & Platforms</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/VS%20Code-7C3AED?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
+  <img src="https://img.shields.io/badge/Jupyter-A855F7?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
+  <img src="https://img.shields.io/badge/Vercel-5B21B6?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/LeetCode-EC4899?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
 </p>
 
 **Core Computer Science:** Data Structures & Algorithms · Object-Oriented Programming fundamentals
